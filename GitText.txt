@@ -1,3 +1,4 @@
 This is a text file
 Okay so for this second commit I will just add some more text to this file
 OKay I think I am getting the hang of the commiting and adding changes to staging. I think my next stage should be making a new branch and then merging it into the main branch
+I have successfully switched between both branches
