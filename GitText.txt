@@ -10,3 +10,4 @@ And now I have merged them. However there was a conflict during merge due to bot
 
 I have fixed this using vim. 
 
+Okay, so I think I have successfully worked through branching and commiting in git now. As well as establishing a connection with GitHub to push your commits
